@@ -4,7 +4,7 @@ The present version contains some serious corrected errors and also contains new
 
 ## Version ##
 ![image](https://img.shields.io/badge/VERSION-2.2.0-success.svg?style=for-the-badge&logo=appveyor)
-![image](https://img.shields.io/badge/STATUS-STABLE-red.svg?style=for-the-badge&logo=appveyor)
+![image](https://img.shields.io/badge/STATUS-STABLE-green.svg?style=for-the-badge&logo=appveyor)
 
 Client build: **PRODUCTION-201611291003-338511768**
 
